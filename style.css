@@ -163,7 +163,7 @@ nav{
 }
 
 #j{
-    color:rgb(1, 5, 86);
+    
     font-size:3rem;
 }
 
@@ -314,6 +314,7 @@ i{
     position: fixed;
     top: 0;
     width: 100%;
+   
 }
 
 .icon{
@@ -347,6 +348,11 @@ i{
         padding: 10px 0;
     }
 
+    nav h2{
+        text-align: center;
+        
+    }
+
     #about h1{
 
         font-size: 3rem;
@@ -362,6 +368,27 @@ i{
         display: flex;
         align-items: center;
         justify-content: center;
+        
+    }
+
+    #contact{
+        padding:0;
+        background: black;
+        color: white;
+    
+    }
+
+    .icons{
+        display:flex;
+        align-items: flex-end;
+        justify-content: center;
+    }
+
+    .logo {
+        display: inline-block;
+        padding: 0;
+       
+    
         
     }
 
