@@ -384,7 +384,7 @@ i{
     }
 
     #contact{
-        padding:0;
+        padding:20px 0;
         background: black;
         color: white;
     
@@ -402,6 +402,11 @@ i{
        
     
         
+    }
+
+    #explore img{
+        width: 300px;
+        height: auto;
     }
 
 }
